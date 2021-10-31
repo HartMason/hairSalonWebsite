@@ -36,6 +36,7 @@ nav {
 .mustachGlasses {
     margin-right: 20px;
     margin-bottom: 20px;
+   
 }
 
 .mustache3 {
@@ -57,4 +58,32 @@ nav {
 .mustache6 {
     margin-right: 20px;
     margin-bottom: 20px;
+}
+
+/* everything abouve is second row */
+
+
+.mustache8 {
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+
+.mustache9 {
+    margin-right: 20px;
+}
+
+/* everything above is third row */
+footer {
+    height: 75px;
+    background-color: rgb(37,37,37);
+    display: flex;
+}
+
+.corporated {
+    color: white;
+}
+
+.icons {
+    display: flex;
+    size: 75px;
 }
