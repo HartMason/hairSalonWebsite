@@ -7,10 +7,21 @@ header {
 
 h1 {
     margin-top: 70px;
-    font-size: 45px;
-    font-style: 'Grechen Fuemen', cursive;
+    font-size: 65px;
+    font-family: 'Irish Grover', cursive;
+    margin-bottom: 10px;
 }
-/* Can't get the Font Right */
+
+nav {
+    margin-top: 50px;
+}
+nav > a {
+    margin: 0 20px 0 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
 
 .started {
     background-color: black;
@@ -36,18 +47,30 @@ p {
 
 
 
-
-footer {
-    height: 75px;
+.footer {
+    width: 100%;
+    height: 80px;
     background-color: rgb(37,37,37);
+    display: flex;
+    margin: auto;
+    align-items: center; 
+}
+
+.container {
+    width: 600px;
+    margin: auto;
     display: flex;
 }
 
 .corporated {
     color: white;
+    width: 50%;
 }
 
 .icons {
     display: flex;
-    size: 75px;
+    width: 50%;
+    justify-content: right;
+    margin: auto;
+    
 }
