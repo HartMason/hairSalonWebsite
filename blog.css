@@ -36,6 +36,59 @@ h2 {
     color: white;
 }
 
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.blogContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: black 2px solid;
+    width: 60%;
+}    
+
+.cuttingMustache {
+    border-right: black 2px solid;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.grewMustache {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.secondRowContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    border: black 2px solid;
+    width: 60%;
+    margin-left: 375px;
+    margin-bottom: 20px;
+}
+
+.secondRowPic {
+    border-right: black 2px solid;
+}
+
+.inTheCountry {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+
+
+
 
 
 
@@ -63,6 +116,5 @@ h2 {
     display: flex;
     width: 50%;
     justify-content: right;
-    margin: auto;
-    
+    margin: auto;  
 }

@@ -22,6 +22,9 @@ nav > a {
     color: black;
 }
 
+.photographer {
+    border: black 2px solid;
+}
 
 .started {
     background-color: black;
