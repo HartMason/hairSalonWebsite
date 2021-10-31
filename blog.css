@@ -85,9 +85,25 @@ h3 {
     margin-right: 40px;
 }
 
+.thirdRowContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: black 2px solid;
+    width: 60%;
+    margin-left: 375px;
+    margin-bottom: 40px;
+}
 
+.thirdPic {
+    border-right: black 2px solid;
+}
 
-
+.mustacheBrothers {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
 
 
 
