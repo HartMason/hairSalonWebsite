@@ -23,6 +23,11 @@ nav > a {
     color: black;
 }
 
+a:hover {
+    color: aqua;
+ }
+ 
+
 
 .galleryLayout {
     display: flex;

@@ -23,6 +23,11 @@ nav > a {
     color: black;
 }
 
+a:hover {
+    color: aqua;
+ }
+ 
+
 .manWithGlasses {
     position: relative;  
     width: 100vw;

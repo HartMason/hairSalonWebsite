@@ -23,6 +23,10 @@ nav > a {
     color: black;
 }
 
+a:hover {
+    color: aqua;
+ }
+ 
 
 .blog {
     display: flex;
