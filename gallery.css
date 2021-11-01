@@ -42,10 +42,16 @@ nav > a {
     justify-content: center;
 }
 
+
 .mustachGlasses {
     margin-right: 20px;
     margin-bottom: 20px;
-   
+    opacity: .8;
+    transition: .5s ease-in;
+}
+
+.mustachGlasses:hover {
+    opacity: 1.0;
 }
 
 .mustache3 {

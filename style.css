@@ -26,18 +26,19 @@ nav > a {
 .manWithGlasses {
     position: relative;  
     width: 100vw;
-    
 }
-.manWithGlasses h2 {
-    position: absolute;
-    height: 50%;
-    top: 0;
+
+.pictureContainer {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    bottom: 0;
-    margin: auto;
+    flex-direction: column;
+    left: 50%;
+    margin-left: -480px;
+    margin-top: -171px;
+    padding: 0 0 0 470px;
+    position: absolute;
+    top: 50%;
+    text-align: left;
+    width: 490px;
 }
 
 
@@ -50,8 +51,7 @@ nav > a {
 
 .theFather {
     margin-top: 30px;
-    margin-right: 20px;
-    
+    margin-right: 20px;     
 }
 
 .theActor {
