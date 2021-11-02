@@ -24,7 +24,7 @@ nav > a {
 }
 
 a:hover {
-    color: aqua;
+    color: rgb(11,163,156);
 }
  
 form {
@@ -132,3 +132,7 @@ h2 {
     margin: auto;
 }
 
+@media screen and (max-width: 992px) {
+    
+}
+    
