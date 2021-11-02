@@ -83,3 +83,28 @@ p {
     margin: auto;
     
 }
+
+@media screen and (max-width: 992px) {
+    body {
+        background-color: bisque;
+    }
+}
+@media screen and (max-width: 480px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px;
+        font-size: 25px;
+    }
+
+    h2 {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    p {
+        width: 400px;
+    }
+
+}
